@@ -34,6 +34,19 @@ My goal is to build strong foundations (Networking, Linux/Windows, OSI, TCP/IP),
 
 ---
 
+## Structure
+
+Each folder contains my TryHackMe room reports and notes.
+
+-  [**Week_01_IntroductionToCyberSecurity**](Week_01_IntroductionToCyberSecurity/01_Cyber_Security_Basics.md)
+- **Week_02_NetworkFundamentals/**
+- **Week_03_HowTheWebWorks/**
+- **Week_04_LinuxFundamentals/**
+- **Week_05_WindowsFundamentals/**
+- **PersonalSecurityProjects/**
+
+---
+
 ## Report template
 Use this for every room:
 
