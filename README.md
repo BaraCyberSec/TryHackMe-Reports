@@ -39,7 +39,7 @@ My goal is to build strong foundations (Networking, Linux/Windows, OSI, TCP/IP),
 Each folder contains my TryHackMe room reports and notes.
 
 -  [**Week_01_IntroductionToCyberSecurity**](Week_01_IntroductionToCyberSecurity/01_Cyber_Security_Basics.md)
-- **Week_02_NetworkFundamentals/**
+-  [**Week_02_NetworkFundamentals**](Week_02_NetworkFundamentals/02_Network_Fundamentals.md)
 - **Week_03_HowTheWebWorks/**
 - **Week_04_LinuxFundamentals/**
 - **Week_05_WindowsFundamentals/**
