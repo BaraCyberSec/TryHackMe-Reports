@@ -11,7 +11,7 @@ My goal is to build strong foundations (Networking, Linux/Windows, OSI, TCP/IP),
 - Become a **SOC Analyst L1** (short-term)
 - Build habits: daily labs + short written reports
 - Develop English technical writing skills
-- Later transition into **ethical hacking**
+- Later transition into **Security Architect**
 
 ---
 
