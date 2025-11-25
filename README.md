@@ -42,7 +42,7 @@ Each folder contains my TryHackMe room reports and notes.
 -  [**Week_02_NetworkFundamentals**](Week_02_NetworkFundamentals/02_Network_Fundamentals.md)
 -  [**Week_03_HowTheWebWorks**](Week_03_HowTheWebWorks/week3-how-the-web-works.md)
 - **Week_04_LinuxFundamentals/**
-- ##Week_05_LinuxBashScripting/**
+- **Week_05_LinuxBashScripting/**
 - **Week_06_WindowsFundamentals/**
 - **PersonalSecurityProjects/**
 
