@@ -41,10 +41,7 @@ Each folder contains my TryHackMe room reports and notes.
 -  [**Week_01_IntroductionToCyberSecurity**](Week_01_IntroductionToCyberSecurity/01_Cyber_Security_Basics.md)
 -  [**Week_02_NetworkFundamentals**](Week_02_NetworkFundamentals/02_Network_Fundamentals.md)
 -  [**Week_03_HowTheWebWorks**](Week_03_HowTheWebWorks/week3-how-the-web-works.md)
-- Week_04_LinuxFundamentals/
- ├── LinuxFundamentals_Part1.md
- ├── LinuxFundamentals_Part2.md
- └── LinuxFundamentals_Part3.md
+-  [**Week_04_LinuxFundamentals**](Week_04_LinuxFundamentals/LinuxFundamentals.md)
 - **Week_05_LinuxBashScripting/**
 - **Week_06_WindowsFundamentals/**
 - **PersonalSecurityProjects/**
